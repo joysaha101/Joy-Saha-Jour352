@@ -4,3 +4,10 @@ body{
   font-weight: 400;
   color:#404040;
 }
+
+h1{
+  font-size: 3em;
+  color:#33485e;
+  text-transform:uppercase;
+  text-align: center;
+}
