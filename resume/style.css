@@ -17,7 +17,7 @@ h1{
 }
 
 /*style for title of resume*/
-title{
+ p{
   text-transform:uppercase;
   font-size:1.5em;
   color:#33485e;
