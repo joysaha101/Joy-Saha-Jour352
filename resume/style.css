@@ -1,3 +1,6 @@
+/*styles for my resume*/
+
+/*style for body of html website*/
 body{
   font-family:open sans, arial, sans-serif;
   font-size:1em;
@@ -5,6 +8,7 @@ body{
   color:#404040;
 }
 
+/*style for name at top of resume*/
 h1{
   font-size:3em;
   color:#33485e;
@@ -12,12 +16,14 @@ h1{
   text-align:center;
 }
 
+/*style for title of resume*/
 title{
   text-transform:uppercase;
   font-size:1.5em;
   color:#33485e;
 }
 
+/*style for each section titles*/
 h2{
   font-size:1.5em;
   text-transform:uppercase;
@@ -26,22 +32,26 @@ h2{
   font-weight:400;
 }
 
+/*style for name of job titles*/
 h3{
   font-weight:600;
   font-size:1.5em;
 }
 
+/*style for name of organizations*/
 h4{
   font-weight:400;
   font-size:1.5em;
 }
 
+/*style for dates*/
 h5{
   font-weight:400;
   font-size:1em;
   font-style:italic;
 }
 
+/*style for listed items*/
 li{
   font-size:1em;
 }
