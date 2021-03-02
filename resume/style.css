@@ -109,3 +109,10 @@ margin-bottom: 0px;
   text-align: center;
   margin: 20px 0px 0px 0px;
 }
+
+.top{
+  width: 60%;
+  min-width: 300 px;
+  margin:0 auto;
+  margin-bottom: 30px;
+}
