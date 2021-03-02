@@ -55,7 +55,7 @@ li{
   font-size:1em;
 }
 
-.name{
+#name{
   border-bottom: 1px solid #33485e;
   width: 60%;
   min-width: 300px;
