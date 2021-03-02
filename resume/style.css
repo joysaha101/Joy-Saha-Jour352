@@ -62,3 +62,10 @@ li{
   min-width: 300px;
   margin: 0 auto;
 }
+
+.sectionheader{
+  margin-bottom: 10px;
+  margin-top: 20px;
+  margin-left: 0px;
+  margin-right: 0px;
+}
