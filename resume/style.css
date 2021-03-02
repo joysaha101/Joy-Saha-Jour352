@@ -103,3 +103,9 @@ margin-bottom: 0px;
 #do{
   margin: 5px 0px 0px 0px;
 }
+
+#title{
+  font-weight: 600;
+  text-align: center;
+  margin: 20px 0px 0px 0px;
+}
