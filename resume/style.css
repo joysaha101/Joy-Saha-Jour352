@@ -8,28 +8,11 @@ body{
   color:#404040;
 }
 
-/*style for name at top of resume*/
-h1{
-  font-size:3em;
-  color:#33485e;
-  text-transform:uppercase;
-  text-align:center;
-}
-
 /*style for title of resume*/
  strong{
   text-transform:uppercase;
   font-size:1.5em;
   color:#33485e;
-}
-
-/*style for each section titles*/
-h2{
-  font-size:1.5em;
-  text-transform:uppercase;
-  background-color:#33485e;
-  color:white;
-  font-weight:400;
 }
 
 /*style for name of job titles*/
@@ -56,6 +39,10 @@ li{
 }
 
 #name{
+  font-size:3em;
+  color:#33485e;
+  text-transform:uppercase;
+  text-align:center;
   border-bottom: 1px solid #33485e;
   width: 60%;
   min-width: 300px;
@@ -63,6 +50,11 @@ li{
 }
 
 .sectionheader{
+  font-size:1.5em;
+  text-transform:uppercase;
+  background-color:#33485e;
+  color:white;
+  font-weight:400;
   margin-bottom: 10px;
   margin-top: 20px;
   margin-left: 0px;
