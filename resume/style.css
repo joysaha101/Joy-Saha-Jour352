@@ -33,7 +33,7 @@ h2{
 }
 
 /*style for name of job titles*/
-.jobtitle{
+h3{
   font-weight:600;
   font-size:1.5em;
 }
