@@ -15,24 +15,6 @@ body{
   color:#33485e;
 }
 
-/*style for name of job titles*/
-h3{
-  font-weight:600;
-  font-size:1.5em;
-}
-
-/*style for name of organizations*/
-h4{
-  font-weight:400;
-}
-
-/*style for dates*/
-h5{
-  font-weight:400;
-  font-size:1em;
-  font-style:italic;
-}
-
 /*style for listed items*/
 li{
   font-size:1em;
@@ -63,11 +45,20 @@ li{
   min-width: 300px;
 }
 
+.jobtitle{
+  font-weight:600;
+  font-size:1.5em;
+}
+
 .organization{
+  font-weight:400;
   font-size:1.25em;
 }
 
 .date{
+  font-weight:400;
+  font-size:1em;
+  font-style:italic;
   margin-top: 2px;
   margin-left: 0px;
   margin-right: 0px;
