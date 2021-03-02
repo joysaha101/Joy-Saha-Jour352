@@ -39,9 +39,9 @@ h2{
 }
 
 /*style for name of organizations*/
-h4{
+.organization{
   font-weight:400;
-  font-size:1.5em;
+  font-size:1.25em;
 }
 
 /*style for dates*/
