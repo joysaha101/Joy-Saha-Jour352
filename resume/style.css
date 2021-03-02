@@ -8,13 +8,6 @@ body{
   color:#404040;
 }
 
-/*style for title of resume*/
- strong{
-  text-transform:uppercase;
-  font-size:1.5em;
-  color:#33485e;
-}
-
 #name{
   font-size:3em;
   color:#33485e;
@@ -84,6 +77,9 @@ body{
 }
 
 #title{
+  text-transform:uppercase;
+  font-size:1.5em;
+  color:#33485e;
   font-weight: 600;
   text-align: center;
   margin: 20px 0px 0px 0px;
