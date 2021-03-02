@@ -45,14 +45,10 @@ h2{
 }
 
 /*style for dates*/
-.date{
+h5{
   font-weight:400;
   font-size:1em;
-  font-style: italic;
-  margin-top: 2px;
-  margin-left: 0px;
-  margin-right: 0px;
-  margin-bottom: 0px;
+  font-style:italic;
 }
 
 /*style for listed items*/
@@ -74,4 +70,11 @@ li{
   margin-right: 0px;
   width: 70%;
   min-width: 300px;
+}
+
+.date{
+margin-top: 2px;
+margin-left: 0px;
+margin-right: 0px;
+margin-bottom: 0px;
 }
