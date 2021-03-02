@@ -15,6 +15,7 @@ body{
   padding-bottom: 50px;
 }
 
+/*header one style id*/
 #name{
   font-size:3em;
   color:#33485e;
@@ -26,6 +27,7 @@ body{
   margin: 0 auto;
 }
 
+/*header 2 style class*/
 .sectionheader{
   font-size:1.5em;
   text-transform:uppercase;
@@ -40,16 +42,19 @@ body{
   min-width: 300px;
 }
 
+/*header three style class*/
 .jobtitle{
   font-weight:600;
   font-size:1.5em;
 }
 
+/*header four style class*/
 .organization{
   font-weight:400;
   font-size:1.25em;
 }
 
+/*header five style class*/
 .date{
   font-weight:400;
   font-size:1em;
@@ -60,6 +65,7 @@ body{
   margin-bottom: 0px;
 }
 
+/*experience descriptions class*/
 .description{
   margin-top: 10px;
   margin-bottom: 10px;
