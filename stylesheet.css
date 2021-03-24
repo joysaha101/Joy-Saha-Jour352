@@ -1,0 +1,22 @@
+/* for the hero image */
+#content {
+  font-family: Helvetica, sans-serif;
+  margin: 0 auto;
+  width: 900px;
+}
+
+#banner{
+  display: block;
+  margin: 0 auto;
+}
+
+#byline{
+  font-family: Helvetica, sans-serif;
+  font-size: 14px;
+  font-style: italic;
+}
+
+p{
+  font-family: Georgia, serif;
+  font-size: 13px;
+}
