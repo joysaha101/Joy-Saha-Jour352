@@ -17,12 +17,13 @@ h2{
   font-size:60px;
   text-transform:uppercase;
   background-color:#FF3333;
-  color:red;
+  color:white;
+  text-align: center;
   font-weight:400;
   margin-bottom: 50px;
   margin-top: 50px;
-  margin-left: 20px;
-  margin-right: 20px;
+  margin-left: 0px;
+  margin-right: 0px;
   width: 100%;
-  min-width: 500px;
+  min-width: 1000px;
 }
