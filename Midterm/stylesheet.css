@@ -6,6 +6,24 @@
   padding-bottom: 50px;
 }
 
+/* masthead appears at the top of the webpage and represents a soccer field */
+.masthead{
+  font-size:80px;
+  font-style: oblique;
+  text-transform:uppercase;
+  text-decoration: underline overline wavy green;
+  background-color:#FF0033;
+  color:white;
+  text-align: center;
+  font-weight:500;
+  margin-bottom: 50px;
+  margin-top: 50px;
+  margin-left: 0px;
+  margin-right: 0px;
+  width: 100%;
+  min-width: 1000px;
+}
+
 #byline{
   font-family: Helvetica, Arial, sans-serif;
   font-size: 14px;
@@ -27,20 +45,8 @@ h2{
   font-size: 25px;
 }
 
-/* masthead appears at the top of the webpage and represents a soccer field */
-.masthead{
-  font-size:80px;
-  font-style: oblique;
-  text-transform:uppercase;
-  text-decoration: underline overline wavy green;
-  background-color:#FF0033;
-  color:white;
+blockquote{
+  color: blue;
   text-align: center;
-  font-weight:500;
-  margin-bottom: 50px;
-  margin-top: 50px;
-  margin-left: 0px;
-  margin-right: 0px;
-  width: 100%;
-  min-width: 1000px;
+  font-style: italic;
 }
