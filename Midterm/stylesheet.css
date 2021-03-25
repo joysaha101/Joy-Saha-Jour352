@@ -5,8 +5,7 @@ p{
 
 h1{
   font-family: Georgia, Garamond, serif;
-  font-size: 40px;
-  text-align: center;
+  font-size: 45px;
 }
 
 h2{
@@ -15,9 +14,10 @@ h2{
 }
 
 .masthead{
-  font-size:70px;
+  font-size:80px;
   font-style: oblique;
   text-transform:uppercase;
+  text-decoration: underline overline wavy green;
   background-color:#FF3333;
   color:white;
   text-align: center;
