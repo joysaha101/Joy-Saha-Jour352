@@ -5,7 +5,7 @@ p{
 
 h1{
   font-family: Georgia, Garamond, serif;
-  font-size: 45px;
+  font-size: 40px;
 }
 
 h2{
@@ -17,8 +17,8 @@ h2{
   font-size:80px;
   font-style: oblique;
   text-transform:uppercase;
-  text-decoration: underline overline wavy green;
-  background-color:#FF3333;
+  text-decoration: overline wavy green;
+  background-color:#FF0033;
   color:white;
   text-align: center;
   font-weight:500;
