@@ -46,6 +46,7 @@ h2{
 }
 
 blockquote{
+  font-family: Georgia, Garamond, serif;
   color: blue;
   text-align: center;
   font-style: italic;
