@@ -24,37 +24,13 @@
 }
 
 .menu{
-  margin-left: 5em;
-  font-family: Century, sans-serif;
+  font-family: Century, serif;
+  font-weight: bold;
+  color: black;
   word-spacing: 2em;
   font-size:20px;
   margin: 10px;
   padding: 0px;
-  text-align:center;
+  text-align: center;
   display:inline;
-}
-
-#name{
-  font-size:25px;
-  font-family: Georgia, serif;
-  color:#33485e;
-  text-transform:uppercase;
-  text-align:center;
-  width: 60%;
-  min-width: 300px;
-  margin: 0 auto;
-}
-
-.description{
-  margin-top: 10px;
-  margin-bottom: 10px;
-  margin-left: 0px;
-  margin-right: 0px;
-}
-
-.top{
-  width: 60%;
-  min-width: 300px;
-  margin:0 auto;
-  margin-bottom: 30px;
 }
