@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 #container{
   width: 100%;
@@ -51,3 +52,58 @@ blockquote{
   text-align: center;
   font-style: italic;
 }
+=======
+
+#container{
+  width: 100%;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding-bottom: 50px;
+}
+
+/* masthead appears at the top of the webpage and represents a soccer field */
+.masthead{
+  font-size:80px;
+  font-style: oblique;
+  text-transform:uppercase;
+  text-decoration: underline overline wavy green;
+  background-color:#FF0033;
+  color:white;
+  text-align: center;
+  font-weight:500;
+  margin-bottom: 50px;
+  margin-top: 50px;
+  margin-left: 0px;
+  margin-right: 0px;
+  width: 100%;
+  min-width: 1000px;
+}
+
+#byline{
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 14px;
+  font-style: italic;
+}
+
+p{
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 12px;
+}
+
+h1{
+  font-family: Georgia, Garamond, serif;
+  font-size: 40px;
+}
+
+h2{
+  font-family: Georgia, Garamond, serif;
+  font-size: 25px;
+}
+
+blockquote{
+  font-family: Georgia, Garamond, serif;
+  color: blue;
+  text-align: center;
+  font-style: italic;
+}
+>>>>>>> add5e6ecea8b285128fb2ef2370788d453e8204f
