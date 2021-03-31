@@ -2,8 +2,11 @@
 /* No media query since this is the default in Bootstrap */
 
 /* Small devices (tablets, 768px and up) */
+@media (max-width: @screen-xs-max) {
+  max-width:768px;
+}
 @media (min-width: @screen-sm-min) {
-  min-width: 750px;
+  min-width:750px;
 }
 
 /* Medium devices (desktops, 992px and up) */
