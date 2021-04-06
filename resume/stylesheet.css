@@ -1,0 +1,23 @@
+#container{
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding-bottom: 50px;
+}
+
+.header{
+  padding: 60px;
+  padding-top: 20px;
+  padding-bottom: 10px;
+  text-align: center;
+  font-family: Garamond, serif;
+  background: #FDE26C;
+  color: black;
+  font-size: 24px;
+}
+
+h1{
+  font-family: 'Satisfy', cursive;
+  font-size: 112px;
+  text-shadow: 6px 6px #FF9999;
+}
