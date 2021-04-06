@@ -12,7 +12,7 @@ h1{
   font-size: 65px;
 }
 
-p{
+.byline{
   text-align: center;
   font-family: sans-serif;
   text-transform: uppercase;
@@ -24,6 +24,6 @@ h2{
   font-size: 35px;
 }
 
-.paragraph{
+p{
   font-family:sans-serif;
 }
