@@ -1,3 +1,11 @@
+.navbar-brand {
+  font-family:'Space Mono', monospace;
+}
+
+.nav-link{
+  font-family:'Space Mono', monospace;
+}
+
 #container{
     width: 100%;
     max-width: 1200px;
@@ -5,7 +13,7 @@
     padding-bottom: 50px;
 }
 
-.header{
+#header{
   padding-top: 20px;
   padding-bottom: 10px;
   padding-left:20px;
@@ -109,6 +117,4 @@ footer{
   font-family: 'Space Mono', monospace;
   text-align: center;
   background: #FDE26C;
-  padding-bottom:40px;
-  padding-top:40px;
 }
