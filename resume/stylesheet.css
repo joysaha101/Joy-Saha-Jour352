@@ -71,3 +71,34 @@ h2{
 p{
   font-family: 'Space Mono', monospace;
 }
+
+.jobs{
+  background: #FDE26C;
+  box-shadow: 15px 15px #FFB7C5;
+  padding-top: 15px;
+  padding-bottom: 10px;
+  padding-left: 15px;
+  margin-right:50px;
+}
+
+#do{
+  font-family: 'Space Mono', monospace;
+  font-size: 15px;
+  background: #FDE26C;
+  box-shadow: 15px 15px #FFB7C5;
+  padding-top:15px;
+  padding-bottom:10px;
+}
+
+.column2 {
+  float: left;
+  width: 100%;
+}
+
+#degrees{
+  font-family: 'Space Mono', monospace;
+  font-size: 15px;
+  background: #FDE26C;
+  box-shadow: 15px 15px #FFB7C5;
+  padding-top:15px;
+}
