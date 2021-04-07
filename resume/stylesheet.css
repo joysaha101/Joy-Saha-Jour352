@@ -101,4 +101,14 @@ p{
   background: #FDE26C;
   box-shadow: 15px 15px #FFB7C5;
   padding-top:15px;
+  margin-bottom:60px;
+}
+
+footer{
+  display:block;
+  font-family: 'Space Mono', monospace;
+  text-align: center;
+  background: #FDE26C;
+  padding-bottom:40px;
+  padding-top:40px;
 }
