@@ -7,7 +7,7 @@
 
 h1{
   text-align: center;
-  font-family: Garamond, serif;
+  font-family:'Source Serif Pro', serif;
   font-weight: bold;
   font-size: 65px;
 }
@@ -16,6 +16,10 @@ h1{
   text-align: center;
   font-family: sans-serif;
   text-transform: uppercase;
+}
+
+p{
+  font-family:'Source Serif Pro', serif;
 }
 
 h2{
