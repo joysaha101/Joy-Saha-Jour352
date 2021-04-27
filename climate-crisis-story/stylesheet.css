@@ -12,6 +12,11 @@ h1{
   font-size: 65px;
 }
 
+.description{
+  text-align:center;
+  font-family:'Source Serif Pro', serif;
+}
+
 .byline{
   text-align: center;
   font-family: sans-serif;
