@@ -21,7 +21,12 @@ h1{
   display:block;
   margin-left:auto;
   margin-right:auto;
-  width:50%;
+}
+
+figcaption{
+  font-family:'Source Serif Pro', serif;
+  text-align:center;
+  font-size: 15px;
 }
 
 .byline{
@@ -32,6 +37,7 @@ h1{
 
 p{
   font-family:'Source Serif Pro', serif;
+  font-size:18px;
 }
 
 h2{
