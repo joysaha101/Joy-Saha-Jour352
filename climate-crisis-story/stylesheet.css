@@ -48,6 +48,11 @@ h2{
   font-size: 35px;
 }
 
+blockquote{
+  font-style:italic;
+  font-family:'Source Serif Pro', serif;
+}
+
 footer{
   display:block;
   font-size: 25px;
