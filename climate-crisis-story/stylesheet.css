@@ -51,6 +51,7 @@ h2{
 blockquote{
   font-style:italic;
   font-family:'Source Serif Pro', serif;
+  text-align:center;
 }
 
 footer{
