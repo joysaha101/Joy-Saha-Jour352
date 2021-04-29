@@ -120,6 +120,21 @@ input[type=checkbox]:checked ~ .sidebarIconToggle > .diagonal.part-2 {
     margin-top: -9px;
 }
 
+a : link{
+  color:blue;
+}
+
+a : visited{
+  color:purple;
+}
+
+a : hover{
+  color:pink;
+}
+
+a : active{
+  color:red;
+}
 h1{
   text-align: center;
   font-family:'Source Serif Pro', serif;
