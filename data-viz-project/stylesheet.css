@@ -1,0 +1,17 @@
+#container{
+  width: 100%;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding-bottom: 50px;
+}
+
+.navbar {
+  color:black;
+  background-color: black;
+
+}
+
+.navbar-brand{
+  font-family: 'Playfair Display', serif;
+  font-size:30px;
+}
