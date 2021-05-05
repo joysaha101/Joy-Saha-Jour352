@@ -56,23 +56,23 @@
   color: white;
   padding-bottom: 0px;
   padding-top: 100px;
-  text-shadow: 4px 4px black;
-
+  margin-top: 0px;
+  text-shadow: 3px 3px #800000;
 }
 
 h1{
   font-family: 'Playfair Display', serif;
-  font-size:60px;
+  font-size:65px;
   font-style: italic;
   font-weight: bold;
   text-align: center;
-  padding-top: 100px;
+  padding-top: 70px;
   padding-bottom: 10px;
 }
 
 .description{
-  font-style: 'Playfair Display', serif;
-  font-size:18px;
+  font-family: 'Playfair Display', serif;
+  font-size:24px;
   text-align: center;
 }
 
@@ -80,7 +80,8 @@ h1{
   font-family: 'Playfair Display', serif;
   text-align:center;
   font-size:18px;
-  padding-bottom: 20px;
+  padding-bottom: 25px;
+  padding-top: 22px;
 }
 
 p{
@@ -90,8 +91,20 @@ p{
 
 h2{
   font-family: 'Libre Caslon Text', serif;
-  text-align: center;
-  font-size:40px;
+  text-align: left;
+  font-size:42px;
   font-style: italic;
   text-decoration: underline overline red;
+  padding-bottom: 20px;
+}
+
+blockquote{
+  font-family: 'Playfair Display', serif;
+  font-style: italic;
+  font-size:35px;
+  text-align:center;
+  background: #f9f9f9;
+  border-left: 10px solid #ccc;
+  padding-bottom: 10px;
+  margin-bottom: 10px;
 }
