@@ -19,6 +19,7 @@
   text-align: center;
   padding: 15px 100px;
   font-size: 18px;
+  text-decoration: overline red;
 }
 
 /* Change the color of links on hover */
@@ -34,7 +35,7 @@
 }
 
 .hero-image {
-	background: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0.5, 0, 0)), url("bling-ring.jpg");
+	background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0.5, 0, 0)), url("bling-ring.jpg");
   height: 100%;
   background-position: center;
   background-repeat: no-repeat;
@@ -56,6 +57,7 @@
   padding-bottom: 0px;
   padding-top: 100px;
   text-shadow: 4px 4px black;
+
 }
 
 h1{
