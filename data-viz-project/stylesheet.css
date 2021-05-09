@@ -119,3 +119,12 @@ figcaption{
   font-family: 'Libre Caslon Text', serif;
   text-align: center;
 }
+
+footer{
+  display:block;
+  font-size: 14px;
+  text-align: center;
+  padding: 25px;
+  background-color: black;
+  color: white;
+}
