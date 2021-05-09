@@ -96,6 +96,7 @@ h2{
   font-style: italic;
   text-decoration: underline overline red;
   padding-bottom: 20px;
+  padding-top: 20px;
 }
 
 blockquote{
