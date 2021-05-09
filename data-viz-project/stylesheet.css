@@ -108,3 +108,13 @@ blockquote{
   padding-bottom: 10px;
   margin-bottom: 10px;
 }
+
+figure{
+  padding-bottom:20px;
+  padding-top:20px;
+}
+
+figcaption{
+  font-family: 'Libre Caslon Text', serif;
+  text-align: center;
+}
